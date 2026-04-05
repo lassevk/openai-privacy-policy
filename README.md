@@ -21,15 +21,13 @@ Select language
 
 …
 
-Updated: 6 February 2026
+Updated: 1 April 2026
 
 # Europe privacy policy
 
-([Previous version⁠](https://openai.com/policies/eu-privacy-policy/revisions/2024-11-04/))
+([Previous version⁠](https://openai.com/policies/eu-privacy-policy/revisions/2026-02-06/))
 
 For individuals outside the European Economic Area, United Kingdom, and Switzerland, you can read [this version⁠](https://openai.com/policies/row-privacy-policy/) of our Privacy Policy.
-
-For individuals in the Republic of Korea, please refer to the [Korea Addendum⁠](https://openai.com/ko-KR/policies/kr-privacy-policy-addendum).
 
 At OpenAI, our mission is to ensure that artificial general intelligence benefits everyone. We build tools like ChatGPT and Sora to help people learn, create, and solve problems. We at OpenAI (together with our affiliates, “OpenAI”, “we”, “our” or “us”) are committed to respecting your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to personal data that we collect from or about you, and how we use it when you use our website, applications, and services (collectively, “Services”). 
 
